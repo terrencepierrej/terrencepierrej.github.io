@@ -7,6 +7,19 @@ bibtex_paper: true
 ---
 
 # 2025
+{% bibtex /assets/images/papers/2025_etienne.png %}
+@article{Etienne:2025auk,
+    author = "Etienne, Zachariah B. and Assumpcao, Thiago and Werneck, Leonardo R. and Tootle, Samuel D.",
+    title = "{BHaHAHA: A Fast, Robust Apparent Horizon Finder Library for Numerical Relativity}",
+    eprint = "2505.15912",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    month = "5",
+    year = "2025",
+    misc = "Submitted to Phys. Rev. D"
+}
+{% endbibtex %}
+
 {% bibtex /assets/images/papers/2025_tootle.png %}
 @article{Tootle:2025ikk,
     author = "Tootle, Samuel D. and Werneck, Leonardo R. and Assumpcao, Thiago and Jacques, Terrence Pierre and Etienne, Zachariah B.",

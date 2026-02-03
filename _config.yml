@@ -114,29 +114,29 @@ analytics:
 # Site Author
 author:
   name             : "Terrence Pierre Jacques, Ph.D."
-  avatar           : "/assets/images/LeoWebsite.jpg"
+  avatar           : "/assets/images/TPJWebsite.jpg"
   bio              : "Computational Astrophysicist<br/>Research Software Developer"
   location         : "Moscow, ID"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wernecklr@gmail.com"
+      url: "mailto:terrencepierrej@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/leowerneck"
+      url: "https://github.com/terrencepierrej"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/leonardo-rosa-werneck-487385321/"
+      url: "https://www.linkedin.com/in/terrence-pierre-jacques-58aba810b/"
 
 # Site Footer
 footer:
   links:
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/leowerneck"
+      url: "https://github.com/terrencepierrej"
     - label: ""
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/leonardo-rosa-werneck-487385321/"
+      url: "https://www.linkedin.com/in/terrence-pierre-jacques-58aba810b/"
 
 # Reading Files
 include:

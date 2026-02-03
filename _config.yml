@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Leo Werneck"
+title                    : "Terrence Pierre Jacques"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Leo Werneck"
-description              : "Computational Astrophysicist, Software Developer"
+name                     : "Terrence Pierre Jacques"
+description              : "Computational Astrophysicist"
 url                      : "https://terrencepierrej.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "terrencepierrej/terrencepierrej.github.io"

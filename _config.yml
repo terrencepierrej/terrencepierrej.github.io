@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Terrence Pierre Jacques, Ph.D."
   avatar           : "/assets/images/TPJWebsite.jpg"
-  bio              : "Computational Astrophysicist<br/>Research Software Developer"
+  bio              : "Computational Astrophysicist" #<br/>Research Software Developer
   location         : "Moscow, ID"
   links:
     - label: "Email"

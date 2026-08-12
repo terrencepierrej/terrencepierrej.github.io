@@ -1,5 +1,5 @@
 ---
-title: Terrences's Homepage
+title: Terrence's Homepage
 layout: home
 permalink: /
 header:
@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
   caption: "Stages of a binary neutron star merger"
 excerpt:
-  Physics, Math, Numerical Methods, and Software Design
+  Physics, Math, and Numerical Methods
 ---
 
 # Under Construction!
